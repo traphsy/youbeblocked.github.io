@@ -1,0 +1,35 @@
+*{
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+section {
+    margin: 100px 400px;
+    border: 2px solid cadetblue;
+    border-radius: 4px;
+    height: 1000px;
+    width: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+button{
+    height: 40px;
+    width: 180px;
+    background-color: aquamarine;
+    border: 2px solid palevioletred;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+.btn-img{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+
+}

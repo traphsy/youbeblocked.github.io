@@ -1,1 +1,1 @@
-# YouBeBlocked.ub.edu.ph
+# YouBeBlocked.github.io
